@@ -6,7 +6,7 @@
 
 - 👨‍💻 More Details About Me Are On My [Website](https://liam1337.tk/)
 
-- 📫 How To Reach Me **support.liam1337.tk**
+- 📫 How To Reach Me **support@liam1337.tk**
 
 - ⚡ Fun Fact **I'm Kinda Cool 🚬**
 
