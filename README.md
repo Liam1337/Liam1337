@@ -12,7 +12,7 @@
 
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/907018905992691772)](https://discord.com/users/907018905992691772)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/914882312997589034)](https://discord.com/users/914882312997589034)
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
