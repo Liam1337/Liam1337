@@ -2,7 +2,7 @@
 
 - 🔭 I'm Currently Working On A Better Networking Experience :)
 
-- 🌱 I’m Currently Learning **PHP/Web Applications**
+- 🌱 I’m Currently Learning **PHP/SQL/Web Applications**
 
 - 👨‍💻 More Details About Me Are On My [Website](https://liam1337.info/)
 
