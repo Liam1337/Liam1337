@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Liam1337</h1>
 
-- 🔭 I’m Currently Working On idk
+- 🔭 I'm Currently Working On A Better Networking Experience :)
 
 - 🌱 I’m Currently Learning **PHP/Web Applications**
 
-- 👨‍💻 More Details About Me Are On My [Website](https://liam1337.tk/)
+- 👨‍💻 More Details About Me Are On My [Website](https://liam1337.info/)
 
-- 📫 How To Reach Me **support@liam1337.tk**
+- 📫 How To Reach Me **support@liam1337.info**
 
 - ⚡ Fun Fact **I'm Kinda Cool 🚬**
 
