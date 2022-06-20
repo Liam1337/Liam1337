@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="liam1337" height="30" width="40" /></a>
-<a href="https://youtube.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="liam1337" height="30" width="40" /></a>
-<a href="https://dc.liam1337.tk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="liam1337" height="30" width="40" /></a>
+<a href="https://instagram.com/Liam.1337" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="liam1337" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="liam1337" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="liam1337" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
