@@ -1,29 +1,46 @@
-<h1 align="center">Hi 👋, I'm Liam1337</h1>
+```js
+globalThis.Liam = {
+    Socials: {
+        GitHub: 'Liam1337',
+        Discord: 'Liam.1337',
+        Website: 'liam1337.space'
+    },
+    Hobbies: [
+        'JS',
+        '.NET',
+        'PHP',
+        'Kajak',
+        'Listening Rap',
+        'Reverse Engineering',
+        'Making the www a better place'
+    ],
+    Crypto: {
+        Donate: 'Buy me a pizza? :)',
+        Bitcoin: 'bc1q50gn7y5l6s653yy3j7g95mgswmeqzty89z6jj5',
+        Ethereum: '0xb8DA14D509857782f0cD81A5709DE43E654daFd3',
+        Litecoin: 'ltc1qnqcwn9vmwmjvwwtezvaeh0s6vpl8cd93pcu4e9'
+    },
+    LoveYou: Boolean(!1337),
+    SayWhoWhat: (what) => console.log(what),
+    ShowSomeLove: (ProbablyLeet) => console.table(ProbablyLeet),
+    ItProbablyMeans: (Liam) => parseInt(Liam, (6+6+7)-3),
+}
 
-- 🔭 I'm Currently Working On A Better Networking Experience :)
+while (Liam.LoveYou === false) {
+    Liam.ShowSomeLove(Liam);
+    Liam.LoveYou = Boolean(1337);
+    
 
-- 🌱 I’m Currently Learning **PHP/SQL/Web Applications**
+    if (Liam.LoveYou) {
+        Liam.SayWhoWhat('What does 1337 mean?');
+        hmmmm = (Liam.Socials.Discord);
+        bruh = Liam.ItProbablyMeans(10);
+        oh_you_wonder_how_old = `${bruh}`;
+        oh_i_also_have_a_insta = `https://www.instagram.com/${hmmmm}`;
 
-- 👨‍💻 More Details About Me Are On My [Website](https://liam1337.info/)
-
-- 📫 How To Reach Me **support@liam1337.info**
-
-- ⚡ Fun Fact **I'm Kinda Cool 🚬**
-
-
-
+        Liam.SayWhoWhat(oh_you_wonder_how_old);
+        Liam.SayWhoWhat(oh_i_also_have_a_insta);
+    }
+}
+```
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/914882312997589034)](https://discord.com/users/914882312997589034)
-
-<h3 align="left">Connect With Me:</h3>
-<p align="left">
-<a href="https://instagram.com/Liam.1337" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="liam1337" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="liam1337" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="liam1337" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Liam1337&show_icons=true&locale=en&layout=compact" alt="Liam" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Liam1337&show_icons=true&locale=en" /></p>
