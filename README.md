@@ -36,10 +36,10 @@ while (Liam.LoveYou === false) {
         hmmmm = (Liam.Socials.Discord);
         bruh = Liam.ItProbablyMeans(10);
         oh_you_wonder_how_old = `${bruh}`;
-        oh_i_also_have_a_insta = `https://www.instagram.com/${hmmmm}`;
+        oh_i_also_have_insta = `https://www.instagram.com/${hmmmm}`;
 
         Liam.SayWhoWhat(oh_you_wonder_how_old);
-        Liam.SayWhoWhat(oh_i_also_have_a_insta);
+        Liam.SayWhoWhat(oh_i_also_have_insta);
     }
 }
 ```
