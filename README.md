@@ -7,7 +7,6 @@ globalThis.Liam = {
     },
     Hobbies: [
         'JS',
-        '.NET',
         'PHP',
         'Kajak',
         'Listening Rap',
