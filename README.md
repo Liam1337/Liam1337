@@ -15,9 +15,9 @@ globalThis.Liam = {
     ],
     Crypto: {
         Donate: 'Buy me a pizza? :)',
-        Bitcoin: 'bc1q50gn7y5l6s653yy3j7g95mgswmeqzty89z6jj5',
-        Ethereum: '0xb8DA14D509857782f0cD81A5709DE43E654daFd3',
-        Litecoin: 'ltc1qnqcwn9vmwmjvwwtezvaeh0s6vpl8cd93pcu4e9'
+        Bitcoin: 'bc1qda0qklvq9spjvffr7td53hu5dmn4at2ns2slpw',
+        Ethereum: '0xf3AD52Be10CAE9f4952A0e19199ebB312555bA6D',
+        Litecoin: 'LaYG4427RMiuYVYiettrkRHenUXKqLvkdQ'
     },
     LoveYou: Boolean(!1337),
     SayWhoWhat: (what) => console.log(what),
