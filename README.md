@@ -22,7 +22,7 @@ globalThis.Liam = {
     LoveYou: Boolean(!1337),
     SayWhoWhat: (what) => console.log(what),
     ShowSomeLove: (ProbablyLeet) => console.table(ProbablyLeet),
-    ItProbablyMeans: (Liam) => parseInt(Liam, (6+6+7)-3),
+    ItProbablyMeans: (Liam) => parseInt(Liam, (7+7+7)-4),
 }
 
 while (Liam.LoveYou === false) {
